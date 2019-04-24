@@ -1,0 +1,48 @@
+[
+  {
+    "path": "/access",
+    "icon": "key",
+    "name": "access",
+    "title": "权限管理",
+    "redirect": "/access/index",
+    "children": [
+      {
+        "path": "access",
+        "icon": "key",
+        "title": "权限管理",
+        "name": "accessIndex",
+        "component": "access/access"
+      }
+    ]
+  },{
+    "path": "/access2",
+    "icon": "key",
+    "name": "access2",
+    "title": "权限管理ww",
+    "redirect": "/access2/index",
+    "children": [
+      {
+        "path": "access2",
+        "icon": "key",
+        "title": "权限管理ww",
+        "name": "accessIndex",
+        "component": "access2/access2"
+      }
+    ]
+  },{
+    "path": "/access3",
+    "icon": "key",
+    "name": "access3",
+    "title": "权限管理aa",
+    "redirect": "/access3/index",
+    "children": [
+      {
+        "path": "access3",
+        "icon": "key",
+        "title": "权限管理aa",
+        "name": "accessIndex",
+        "component": "access3/access3"
+      }
+    ]
+  }
+]
